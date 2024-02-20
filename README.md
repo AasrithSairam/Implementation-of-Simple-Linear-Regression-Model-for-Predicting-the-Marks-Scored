@@ -88,6 +88,7 @@ print("RMSE:", rmse)
 ```
 
 ## Output:
+```
 Data Head:
 ![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/caa82629-7f93-4b8f-9bd3-d26952eaf2ed)
 Data Tail:
@@ -106,7 +107,7 @@ Test Set Graph:
 ![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/64067fec-6e0a-41d7-bf8d-86fd45b2a8d4)
 Values of MSE, MAE and RMSE:
 ![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/229facb8-feb6-45e4-9120-a82706b65257)
-
+```
 
 
 ## Result:
