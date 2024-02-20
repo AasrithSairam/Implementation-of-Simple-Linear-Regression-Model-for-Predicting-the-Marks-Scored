@@ -88,26 +88,12 @@ print("RMSE:", rmse)
 ```
 
 ## Output:
+![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/a12f3fd3-cf5f-45d0-be29-c1e080dd9fcc)
+![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/19487ed6-6e1a-4ccc-b750-8f11f4323853)
+![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/ac085655-537c-46a5-b668-5c8d9c441f8d)
+![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/360c861f-e3f1-41d0-ba5c-697b695be16d)
+![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/6d261d63-77d3-47d8-af55-640eb2ffba25)
 
-Data Head:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/caa82629-7f93-4b8f-9bd3-d26952eaf2ed)
-\n
-Data Tail:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/b2fadae5-99a4-4ae8-8359-0543af5051da)
-Array Value of X:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/beab0dad-5f1e-4fe7-b74a-f87de73df7e5)
-Array Value of Y:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/413fb93c-5463-4f57-9a23-60f975611431)
-Values of Y prediction:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/bc0be980-534f-4334-8393-12e09ee556e5)
-Array Values of Y Test:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/5b261c40-493a-4080-a4a3-0965e0e7f577)
-Training Set Graph:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/8ba6c8f3-55ee-45f4-b952-13e00129b923)
-Test Set Graph:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/64067fec-6e0a-41d7-bf8d-86fd45b2a8d4)
-Values of MSE, MAE and RMSE:
-![image](https://github.com/AasrithSairam/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/139331438/229facb8-feb6-45e4-9120-a82706b65257)
 
 
 
